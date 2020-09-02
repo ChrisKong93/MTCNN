@@ -1,4 +1,7 @@
 # MTCNN
+[![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
+![size](https://img.shields.io/github/repo-size/imistyrain/MTCNN)
+![stars](https://img.shields.io/github/stars/imistyrain/MTCNN?style=social)
 
 ## 概述
 
